@@ -1,0 +1,13 @@
+{
+  "test_create_post": [
+    {
+      "title": "Anaconda",
+      "body": "Welcome to Anaconda!",
+      "userId": 1
+    }, {
+      "title": "Anaconda",
+      "body": "Welcome to conda's documentation! Conda provides package, dependency, and environment management for any language. Here, you will find everything you need to get started using conda in your own projects.",
+      "userId": 1
+    }
+  ]
+}
