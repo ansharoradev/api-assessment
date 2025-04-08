@@ -1,18 +1,4 @@
-# Task 2: API Automation
-
-Task: API automation testing framework development using
-https://jsonplaceholder.typicode.com/
-* Task Description: The candidate should build a complete API testing framework
-using Python, pytest, and the requests library to implement atleast 2 test cases
-using JSONPlaceholder API (https://jsonplaceholder.typicode.com/)
-* Task Requirements:
-  *  Create a modular, maintainable framework with clear separation of
-  concerns
-  * Implement base classes/utilities for API interactions
-  * Design proper test data management
-  * Include logging and reporting mechanisms
-  * Test coverage should include CRUD Operations and Validations.
-  * Include README with setup instructions and framework explanation
+# API
 
 ### Project Structure
 
