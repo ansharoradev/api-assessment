@@ -23,7 +23,7 @@ using JSONPlaceholder API (https://jsonplaceholder.typicode.com/)
 ### Setup
 1. Clone the repository:
 ```
-git clone git@github.com:anshooarora/api-assessment.git
+git clone git@github.com:ansharoradev/api-assessment.git
 cd api-assessment
 ```
 
